@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ef2419b156c75daa3c2bcb41f807bff2/exifinterface-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ef2419b156c75daa3c2bcb41f807bff2/exifinterface-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ef2419b156c75daa3c2bcb41f807bff2/exifinterface-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ef2419b156c75daa3c2bcb41f807bff2/exifinterface-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/androidx.exifinterface/exifinterface/1.0.0/cb592500decea684137bd17587a92eee4e2568e/exifinterface-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

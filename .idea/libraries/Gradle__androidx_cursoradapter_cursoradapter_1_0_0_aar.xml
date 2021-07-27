@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d3b0751e6f78ff8c1df2664b2714ed8/cursoradapter-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b6190114dafe485bf325475ac62ab76/cursoradapter-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/2b6190114dafe485bf325475ac62ab76/cursoradapter-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/2b6190114dafe485bf325475ac62ab76/cursoradapter-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/2b6190114dafe485bf325475ac62ab76/cursoradapter-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/a8cb0a9578fd34f4f7b569bc9cc33d50/cursoradapter-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/a8cb0a9578fd34f4f7b569bc9cc33d50/cursoradapter-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/a8cb0a9578fd34f4f7b569bc9cc33d50/cursoradapter-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/androidx.cursoradapter/cursoradapter/1.0.0/1e323083b41c31fd4d45510dfce50614963c3c6c/cursoradapter-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

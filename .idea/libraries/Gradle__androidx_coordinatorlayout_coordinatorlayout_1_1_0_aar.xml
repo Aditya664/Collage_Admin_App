@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/73d54ef24c75b9e8f6e4122f37a14dde/coordinatorlayout-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/5333f1b29e0b6e661eb50bde621c8a2e/coordinatorlayout-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/73d54ef24c75b9e8f6e4122f37a14dde/coordinatorlayout-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/73d54ef24c75b9e8f6e4122f37a14dde/coordinatorlayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/73d54ef24c75b9e8f6e4122f37a14dde/coordinatorlayout-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/5333f1b29e0b6e661eb50bde621c8a2e/coordinatorlayout-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/5333f1b29e0b6e661eb50bde621c8a2e/coordinatorlayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/5333f1b29e0b6e661eb50bde621c8a2e/coordinatorlayout-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0/a15529ac349d76a872ae5ef42b84c320c456cd7f/coordinatorlayout-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

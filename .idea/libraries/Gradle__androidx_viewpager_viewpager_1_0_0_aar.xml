@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/291b0dc121fa3d21c4d609cf60748a6c/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe4612a2556647a2df226051e919958d/viewpager-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/fe4612a2556647a2df226051e919958d/viewpager-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/fe4612a2556647a2df226051e919958d/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/fe4612a2556647a2df226051e919958d/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/fb6abfa7091d69fbeab99f65155bc8d6/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/fb6abfa7091d69fbeab99f65155bc8d6/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/fb6abfa7091d69fbeab99f65155bc8d6/viewpager-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

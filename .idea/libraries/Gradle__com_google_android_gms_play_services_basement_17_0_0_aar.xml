@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-basement:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3dde20c6c5c3009a0374634dbc847444/play-services-basement-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3dde20c6c5c3009a0374634dbc847444/play-services-basement-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3dde20c6c5c3009a0374634dbc847444/play-services-basement-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/17.0.0/4faccf8c10bad282388a4067b8ef53d8476bbbc8/play-services-basement-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

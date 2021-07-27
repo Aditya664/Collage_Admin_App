@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth-interop:19.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/17baf3e281bf3c6b441167197af98ca2/firebase-auth-interop-19.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/17baf3e281bf3c6b441167197af98ca2/firebase-auth-interop-19.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/17baf3e281bf3c6b441167197af98ca2/firebase-auth-interop-19.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/17baf3e281bf3c6b441167197af98ca2/firebase-auth-interop-19.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/17baf3e281bf3c6b441167197af98ca2/jetified-firebase-auth-interop-19.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/260f4894ee59f5b339bf7ff3cf55239a/jetified-firebase-auth-interop-19.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/260f4894ee59f5b339bf7ff3cf55239a/jetified-firebase-auth-interop-19.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/260f4894ee59f5b339bf7ff3cf55239a/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/com.google.firebase/firebase-auth-interop/19.0.2/493072813a77bfdcdfed4cb38dab0e56f9a03303/firebase-auth-interop-19.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

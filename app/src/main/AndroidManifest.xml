@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.accal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Accal">
+        <activity android:name=".LogineActivity" android:theme="@style/Theme.MaterialComponents.NoActionBar"
+            tools:ignore="Instantiatable">
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
+        <activity android:name=".notice.DeleteNotice" />
+        <activity android:name=".faculty.UpdateTeacherActivity" />
+        <activity android:name=".faculty.AddTeachers" />
+        <activity android:name=".ebook.Ebook_list" />
+        <activity android:name=".ebook.EbookActivity" />
+        <activity android:name=".faculty.UpdateFaculty" />
+        <activity android:name=".UploadImage" />
+        <activity android:name=".notice.uploadNotice" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>

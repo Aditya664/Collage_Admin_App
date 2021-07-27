@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk:19.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e48c96cb77021e635175367594340a1/play-services-measurement-sdk-19.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/8e48c96cb77021e635175367594340a1/play-services-measurement-sdk-19.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/8e48c96cb77021e635175367594340a1/play-services-measurement-sdk-19.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/8e48c96cb77021e635175367594340a1/play-services-measurement-sdk-19.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/8e48c96cb77021e635175367594340a1/jetified-play-services-measurement-sdk-19.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/cde03bfce13d951d22edc8daa86f6b48/jetified-play-services-measurement-sdk-19.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/cde03bfce13d951d22edc8daa86f6b48/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/cde03bfce13d951d22edc8daa86f6b48/jetified-play-services-measurement-sdk-19.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk/19.0.0/c0d58b8efa926b2c607984c54fb3d274490badd1/play-services-measurement-sdk-19.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

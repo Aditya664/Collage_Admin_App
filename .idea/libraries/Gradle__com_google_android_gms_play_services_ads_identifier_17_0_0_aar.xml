@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75cefe2deb2aafc9736c62c71e49b933/play-services-ads-identifier-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/75cefe2deb2aafc9736c62c71e49b933/play-services-ads-identifier-17.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/75cefe2deb2aafc9736c62c71e49b933/play-services-ads-identifier-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/75cefe2deb2aafc9736c62c71e49b933/play-services-ads-identifier-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/75cefe2deb2aafc9736c62c71e49b933/jetified-play-services-ads-identifier-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3f8b691acb1381846d75ca1ccd1e6932/jetified-play-services-ads-identifier-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3f8b691acb1381846d75ca1ccd1e6932/jetified-play-services-ads-identifier-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/3f8b691acb1381846d75ca1ccd1e6932/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

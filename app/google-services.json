@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886453902191",
+    "project_id": "my-collage-2e13b",
+    "storage_bucket": "my-collage-2e13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886453902191:android:c8690a985851a465b6a69a",
+        "android_client_info": {
+          "package_name": "com.example.accal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886453902191-olsujkthaltidrcobi3qfuhiqu5n230a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzl3WT_XKgxRT2UJCmWZzwqPNZt17vRRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886453902191-olsujkthaltidrcobi3qfuhiqu5n230a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

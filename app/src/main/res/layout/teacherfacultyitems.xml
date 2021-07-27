@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="4dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1.5">
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:paddingLeft="12dp"
+                android:layout_weight="1.5"
+                android:orientation="vertical"
+                android:gravity="center_vertical">
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teachName"
+                    android:text="aditya dds"
+                    android:textColor="@color/textColor"
+                    android:textSize="18sp"/>
+                      <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teachemail" android:text="aditya@h.com"
+                    android:textColor="@color/textColor"
+                    android:textSize="15sp"/>
+                      <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teachPost"
+                          android:text="ss"
+                    android:textColor="@color/textColor"
+                    android:textSize="15sp"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="update info"
+                    android:id="@+id/updatetech"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:layout_marginVertical="4dp"/>
+
+
+
+            </LinearLayout>
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/techimg"
+                android:src="@drawable/avtar"
+                android:layout_weight="0.5"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

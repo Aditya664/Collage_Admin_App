@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: de.hdodenhof:circleimageview:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ecec28ad0e92d935abf65e97dbe92d73/circleimageview-3.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ecec28ad0e92d935abf65e97dbe92d73/circleimageview-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/ecec28ad0e92d935abf65e97dbe92d73/circleimageview-3.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/44c35fa95c6e5344358134ddecbc5332/jetified-circleimageview-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/44c35fa95c6e5344358134ddecbc5332/jetified-circleimageview-3.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/44c35fa95c6e5344358134ddecbc5332/jetified-circleimageview-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/de.hdodenhof/circleimageview/3.1.0/e33964c462b854162fee2bd3cd52889ef878df77/circleimageview-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/de.hdodenhof/circleimageview/3.1.0/e5635e59d66b172f3e99c6a7044dc9535c95d180/circleimageview-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

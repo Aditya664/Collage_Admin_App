@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/9936f9d476e5f9d5697d576a3fbe0eed/appcompat-1.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/9936f9d476e5f9d5697d576a3fbe0eed/appcompat-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/9936f9d476e5f9d5697d576a3fbe0eed/appcompat-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/9936f9d476e5f9d5697d576a3fbe0eed/appcompat-1.2.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Yccollage/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Yccollage/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
